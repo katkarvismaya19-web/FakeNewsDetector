@@ -1,0 +1,6 @@
+# Training + comparison (Colab / local GPU). Installs the app requirements too.
+-r requirements.txt
+datasets>=2.18
+accelerate>=0.30
+matplotlib>=3.7
+sentence-transformers>=2.7
